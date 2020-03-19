@@ -1,0 +1,33 @@
+{
+    "name": "asp-os-loader",
+    "version": "0.0.1",
+    "description": "mp-routes loader module for webpack",
+    "main": "index.js",
+    "peerDependencies": {
+      "mp-routes": "^0.0.1"
+    },
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/niyongquan/asp-os-loader.git"
+    },
+    "keywords": [
+      "react",
+      "resources",
+      "webpack"
+    ],
+    "author": "Alexander Pavlenko",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/niyongquan/asp-os-loader/issues"
+    },
+    "dependencies": {
+        "rd": "^1.0.0",
+        "imageinfo": "^1.0.4"
+    },
+    "homepage": "https://github.com/niyongquan/asp-os-loader",
+    "_from": "asp-os-loader@0.3.1",
+    "_resolved": "http://registry.npm.taobao.org/asp-os-loader/download/asp-os-loader-0.3.1.tgz"
+  }

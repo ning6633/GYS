@@ -1,0 +1,13 @@
+{
+    "appname": "AppTpl",
+    "appid": "AppTpl",
+    "appkey": "654a6bb5-2567-495a-893e-cef273111908AppTpl",
+    "apptoken": "429e7eed-e71a-46f0-8322-9a7f828abdccAppTpl",
+    "version": "1.0.0",
+    "description": "AppTpl",
+    "main": "index.js",
+    "license": "MIT",
+    "author": "bjsasc  <asp@bjsasc.com>",
+    "appurl": "asp://shellapp/AppTpl",
+    "apptype": "AppTpl"
+}

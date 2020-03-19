@@ -1,0 +1,68 @@
+.login_layout{
+    width: 100vw;
+    height: 100vh;
+    background: url('./../../images/gys.jpg') no-repeat;
+    background-size: cover;
+    position: relative;
+    .dialog{
+        position: absolute;
+        top:0;
+        right:0;
+        bottom:0;
+        left:0;
+        background-color:#000;
+        opacity: .5; 
+    }
+    .intro_container{
+        position: relative;
+        height: 100vh;
+        .content{
+            width: 400px;
+            position:absolute;
+            top:50%;
+            left:50%;
+            transform:translate(-50%,-50%);
+            color: #fff;
+            .intro-title{
+                margin-bottom: 20px;
+                font-weight: 700;
+                font-size: 48px;
+                line-height: 1.5
+            }
+            .intro-description{
+                margin:0;
+                font-size: 16px;
+                line-height: 40px;
+                letter-spacing: .45px;
+            }
+        }
+    }
+    .ant-input{
+        border: 1px solid #c4c6cf;
+    }
+    .login_zone{
+           height: 100vh;
+           position: relative;
+          .login_box{
+            width: 400px;
+            padding: 40px;
+            background-color: #fff;
+            border-radius: 6px;
+            position:absolute;
+            top:50%;
+            left:50%;
+            .login_title{
+                font-size: 28px;
+                text-align: center;
+                margin-bottom: 30px;
+                font-weight: 500;
+            }
+            transform:translate(-50%,-50%);
+            .login-button{
+                margin-top: 15px;
+               height: 40px;
+               font-size: 16px;
+            }
+        }
+    }
+}
